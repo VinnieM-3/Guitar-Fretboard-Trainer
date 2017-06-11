@@ -1,7 +1,4 @@
 # Guitar-Fretboard-Trainer
-python program to help you learn the fretboard
+Small python program to help you learn the guitar fretboard.
 
-Requirements:
-  python 2.7
-  pyaudio
-  numpy
+Requirements: python 2.7, pyaudio, numpy
